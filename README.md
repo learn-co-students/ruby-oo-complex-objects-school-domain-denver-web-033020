@@ -1,5 +1,7 @@
 # Domain Model for a School
 
+Link to video walk-through: <https://www.youtube.com/watch?v=PIVMbEtzklA>
+
 ## Objectives
 
 1. Define the concept of a domain model. 
